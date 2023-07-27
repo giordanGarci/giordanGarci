@@ -1,4 +1,4 @@
-GitHub Profile: Giordan Garcia
+Giordan Garcia
 
 Hello there! 👋 I'm Giordan Garcia, a student of Information Systems currently in the 4th period of the course. I'm passionate about software development, and my main focus is on becoming a skilled back-end developer.
 
