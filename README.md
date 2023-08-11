@@ -1,20 +1,30 @@
-Giordan Garcia
 
-Hello there! 👋 I'm Giordan Garcia, a student of Information Systems currently in the 4th period of the course. I'm passionate about software development, and my main focus is on becoming a skilled back-end developer.
-
-Tech Stack:
-Java: I'm currently learning Java and have been making great progress in building my skills.
-Spring Boot: Recently, I've learned how to create CRUD operations with a database using Spring Boot, which has been an exciting milestone for me.
-SQL: I have a basic understanding of SQL, which is crucial for working with databases and managing data.
-HTML and CSS: I know the basics of HTML and CSS, which helps me in creating user interfaces and web applications.
-
-Projects:
-I have started my journey as a developer by creating and contributing to personal projects hosted on my GitHub profile. These projects showcase my progress and the technologies I've been learning, such as Java, Spring Boot, and more. I'm continuously improving and adding new projects to my portfolio.
-
-Goals:
-As I continue to explore the world of back-end development, my goal is to deepen my knowledge of Java and Spring Boot. I also plan to explore other technologies and frameworks in the Java ecosystem to build robust and scalable applications.
-
-Get in Touch:
-Feel free to check out my profile to see my projects and contributions. I'm always open to collaboration and learning from other developers, so don't hesitate to connect with me!
-
-Let's grow together in the world of software development! 🚀👨‍💻
+  <pre align="center" >
+    <code>
+      System.out.prinln("Hi there! I'm Giordan 👋")
+    </code>
+  </pre>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordanGarci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  
+</div>
+  
+  ##
+  
+ <div> 
+  <a href = "mailto:giordangarcia12@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/giordan.garci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giordan-garcia-lemos-de-almeida-623508265/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+ 
+  <!--![Snake animation](https://github.com/queirozlc/queirozlc/blob/output/github-contribution-grid-snake.svg)-->
+ 
+</div>
