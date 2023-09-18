@@ -1,7 +1,7 @@
 
   <pre align="center" >
     <code>
-      System.out.prinln("Hi there 👋! I'm Giordan")
+      System.out.prinln("Hi there! I'm Giordan 👋")
     </code>
   </pre>
 >
