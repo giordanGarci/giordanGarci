@@ -9,9 +9,6 @@
     </code>
   </pre>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,cs,dotnet,python,ts,angular,react,kubernetes,docker,aws,postgres,mongodb,git,linux&perline=16" width="640" alt="Tech stack" />
-</p>
 <h2></h2>
  <div> 
  
