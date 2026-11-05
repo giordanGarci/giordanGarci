@@ -9,7 +9,6 @@
     </code>
   </pre>
 
-<h2></h2>
  <div> 
  
   <!--![Snake animation](https://github.com/queirozlc/queirozlc/blob/output/github-contribution-grid-snake.svg)-->
