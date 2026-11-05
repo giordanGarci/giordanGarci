@@ -8,14 +8,13 @@
       System.out.println("Hi there! I'm Giordan 👋")
     </code>
   </pre>
->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Giordan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Giordan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Giordan-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Giordan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,cs,dotnet,python,ts,angular,react&perline=9" alt="Languages and frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,postgres,mongodb,git,linux&perline=8" alt="Infra and tools" />
+</p>
 <h2></h2>
  <div> 
   <a href = "mailto:giordangarcia12@gmail.com">
