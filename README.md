@@ -10,10 +10,10 @@
   </pre>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,cs,dotnet,python,ts,angular,react&perline=9" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,cs,dotnet,python,ts,angular,react&perline=9" width="360" alt="Languages and frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,postgres,mongodb,git,linux&perline=8" alt="Infra and tools" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,postgres,mongodb,git,linux&perline=8" width="279" alt="Infra and tools" />
 </p>
 <h2></h2>
  <div> 
